@@ -6,3 +6,4 @@ MGT595 Fall 2020
 - Problem Set 5: Explore the value-growth effect on two dimensions: 1) how these returns vary over the business cycle and 2) whether characteristics or covariances better capture their returns. Also explores the characteristics vs. covariance debate for momentum.
 - Problem Set 6: Explore momentum strategies, particularly industry momentum and  also  commodity  momentum
 - Problem Set 7: Look at quality which is another potential source of risk / explanation of excess returns
+- Problem Set 8: Initial tests of market efficiency that focuses largely on the relation between past returns and expected returns, seasonality in returns, and the dangers and cautions of data mining
